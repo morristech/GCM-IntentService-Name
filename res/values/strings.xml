@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">GCM IntentService Name</string>
+    
+	<!-- google cloud messaging -->
+    <string name="gcm_project_id">???????????</string>
+    <string name="gcm_service_class">com.dexxtr.gcm.GCMService</string>
+    
+</resources>
